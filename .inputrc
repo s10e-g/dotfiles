@@ -1,0 +1,4 @@
+#TAB: menu-complete
+set show-all-if-ambiguous on
+set completion-ignore-case on
+set enable-bracketed-paste on

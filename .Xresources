@@ -1,0 +1,66 @@
+Xft.dpi: 96
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+XTerm.termName: xterm-256color
+!xterm*faceName: DejaVu Sans Mono for Powerline:pixelsize=18
+XTerm.vt100.faceName: DejaVu Sans Mono:pixelsize=18
+XTerm.vt100.faceNameDoublesize: Noto Sans CJK SC:pixelsize=18
+XTerm.vt100.metaSendsEscape: true
+XTerm.vt100.foreground: rgb:ff/ff/ff
+XTerm.vt100.background: rgb:14/14/14
+XTerm.vt100.saveLines: 16384
+XTerm.vt100.scrollBar: on
+XTerm.vt100.rightScrollBar: true
+XTerm.vt100.bellIsUrgent: true
+XTerm.vt100.locale: true
+XTerm.vt100.geometry: 105x30
+
+URxvt.font: xft:DejaVu Sans Mono:pixelsize=18,xft:Noto Sans CJK SC:pixelsize=18:minspace=true
+URxvt.depth: 32
+URxvt*letterSpace: -1
+URxvt*scrollBar: true
+URxvt*scrollBar_right: true
+URxvt*scrollColor: #ffffff
+URxvt*scrollBar_floating: true
+URxvt*scrollstyle: xterm
+URxvt*saveLines: 16384
+URxvt*background: #141414
+URxvt*foreground: #ffffff
+URxvt*geometry: 105x30
+
+
+!
+! XScreensave settings
+!
+xscreensaver.splash: false
+!font settings
+!xscreensaver.Dialog.headingFont:        xft:DejaVu Sans:bold:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.Dialog.bodyFont:           xft:DejaVu Sans:normal:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.Dialog.labelFont:          xft:DejaVu Sans:normal:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.Dialog.unameFont:          xft:DejaVu Sans:normal:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.Dialog.buttonFont:         xft:DejaVu Sans:bold:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.Dialog.dateFont:           xft:DejaVu Sans:normal:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.passwd.passwdFont:         xft:DejaVu Sans:bold:pixelsize=12:antialias=true:hinting=true
+!xscreensaver.Dialog.headingFont:        -*-dejavu sans-bold-r-*--12-*-*-*-*-*-*-*
+!xscreensaver.Dialog.bodyFont:           -*-dejavu sans-medium-r-*-*-12-*-*-*-*-*-*-*
+!xscreensaver.Dialog.labelFont:          -*-dejavu sans-medium-r-*-*-12-*-*-*-*-*-*-*
+!xscreensaver.Dialog.unameFont:          -*-dejavu sans-medium-r-*-*-12-*-*-*-*-*-*-*
+!xscreensaver.Dialog.buttonFont:         -*-dejavu sans-bold-r-*-*-12-*-*-*-*-*-*-*
+!xscreensaver.Dialog.dateFont:           -*-dejavu sans-medium-r-*-*-12-*-*-*-*-*-*-*
+!xscreensaver.passwd.passwdFont:         -*-dejavu sans-bold-r-*-*-12-*-*-*-*-*-*-*
+!
+!hidpi
+!xscreensaver.Dialog.headingFont:        -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1
+!xscreensaver.Dialog.bodyFont:           -adobe-helvetica-medium-r-normal--34-240-100-100-p-176-iso8859-1
+!xscreensaver.Dialog.labelFont:          -adobe-helvetica-medium-r-normal--34-240-100-100-p-176-iso8859-1
+!xscreensaver.Dialog.unameFont:          -adobe-helvetica-medium-r-normal--34-240-100-100-p-176-iso8859-1
+!xscreensaver.Dialog.buttonFont:         -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1
+!xscreensaver.Dialog.dateFont:           -adobe-helvetica-medium-r-normal--34-240-100-100-p-176-iso8859-1
+!xscreensaver.passwd.passwdFont:         -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1
+!xscreensaver.Dialog.internalBorderWidth: 72
+!xscreensaver.Dialog.borderWidth: 0
+!xscreensaver.Dialog.shadowThickness: 4
